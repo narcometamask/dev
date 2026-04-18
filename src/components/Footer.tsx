@@ -18,15 +18,6 @@ export default function Footer() {
               Building Dreams with Precision Since 2015. London's trusted residential construction specialists.
             </p>
             <div className="flex gap-4">
-              /* {[Facebook, Instagram, Linkedin, MessageCircle].map((Icon, i) => (
-                <a
-                  key={i}
-                  href="#"
-                  className="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center text-white hover:bg-amber-500 transition-colors duration-200"
-                >
-                  <Icon className="w-4 h-4" />
-                </a>
-              ))} */
             </div>
           </div>
 
